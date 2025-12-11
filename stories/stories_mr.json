@@ -185,27 +185,9 @@
         "Text": "But the tooth tricked the lion and escaped safely!"
       }
     ]
-  },
-  {
-    "StoryId": "10",
-    "Title": "10. Tiny Tooth",
-    "Image": "toothstorycover.png",
-    "Pages": [
-      {
-        "Image": "page2.png",
-        "Text": "Once upon a time in a deep forest, there lived a clever tooth..."
-      },
-      {
-        "Image": "page1.png",
-        "Text": "One day, a hungry lion came and tried to catch the tooth..."
-      },
-      {
-        "Image": "page3.png",
-        "Text": "But the tooth tricked the lion and escaped safely!"
-      }
-    ]
   }
 ]
+
 
 
 
