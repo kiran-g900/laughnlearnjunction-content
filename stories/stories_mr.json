@@ -2,10 +2,10 @@
   {
     "StoryId": "1",
     "Title": "चतुर ससा",
-    "Image": "https://github.com/kiran-g900/laughnlearnjunction-content/blob/main/images/thecleverrabbit/rbpage1.jpg",
+    "Image": "https://raw.githubusercontent.com/kiran-g900/laughnlearnjunction-content/refs/heads/main/images/thecleverrabbit/rbpage1.jpg",
     "Pages": [
       {
-        "Image": "https://github.com/kiran-g900/laughnlearnjunction-content/blob/main/images/thecleverrabbit/rbpage1.jpg",
+        "Image": "https://raw.githubusercontent.com/kiran-g900/laughnlearnjunction-content/refs/heads/main/images/thecleverrabbit/rbpage1.jpg",
         "Text": "एकदा जंगलात एक चतुर ससा राहत होता."
       },
       {
@@ -13,7 +13,7 @@
         "Text": "एक भुकेला सिंह त्याला खाऊ इच्छित होता."
       },
       {
-        "Image": "/thecleverrabbit/rbpage3.jpg",
+        "Image": "https://raw.githubusercontent.com/kiran-g900/laughnlearnjunction-content/refs/heads/main/images/thecleverrabbit/rbpage3.jpg",
         "Text": "सशाने एक चतुर योजना आखली."
       },
       {
@@ -206,4 +206,5 @@
     ]
   }
 ]
+
 
