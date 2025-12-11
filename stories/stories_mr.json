@@ -2,14 +2,14 @@
   {
     "StoryId": "1",
     "Title": "चतुर ससा",
-    "Image": "/thecleverrabbit/rbpage1.jpg",
+    "Image": "https://github.com/kiran-g900/laughnlearnjunction-content/blob/main/images/thecleverrabbit/rbpage1.jpg",
     "Pages": [
       {
-        "Image": "/thecleverrabbit/rbpage1.jpg",
+        "Image": "https://github.com/kiran-g900/laughnlearnjunction-content/blob/main/images/thecleverrabbit/rbpage1.jpg",
         "Text": "एकदा जंगलात एक चतुर ससा राहत होता."
       },
       {
-        "Image": "/thecleverrabbit/rbpage2.jpg",
+        "Image": "images/thecleverrabbit/rbpage2.jpg",
         "Text": "एक भुकेला सिंह त्याला खाऊ इच्छित होता."
       },
       {
@@ -206,3 +206,4 @@
     ]
   }
 ]
+
