@@ -9,7 +9,7 @@
         "Text": "एकदा जंगलात एक चतुर ससा राहत होता."
       },
       {
-        "Image": "images/thecleverrabbit/rbpage2.jpg",
+        "Image": "https://raw.githubusercontent.com/kiran-g900/laughnlearnjunction-content/refs/heads/main/images/thecleverrabbit/rbpage2.jpg",
         "Text": "एक भुकेला सिंह त्याला खाऊ इच्छित होता."
       },
       {
@@ -17,19 +17,19 @@
         "Text": "सशाने एक चतुर योजना आखली."
       },
       {
-        "Image": "/thecleverrabbit/rbpage4.jpg",
+        "Image": "https://raw.githubusercontent.com/kiran-g900/laughnlearnjunction-content/refs/heads/main/images/thecleverrabbit/rbpage4.jpg",
         "Text": "त्याने सिंहाला एका खोल विहिरीकडे नेले."
       },
       {
-        "Image": "/thecleverrabbit/rbpage5.jpg",
+        "Image": "https://raw.githubusercontent.com/kiran-g900/laughnlearnjunction-content/refs/heads/main/images/thecleverrabbit/rbpage5.jpg",
         "Text": "सिंहाला पाण्यात स्वतःचे प्रतिबिंब दिसले. \nत्याला वाटले की तो दुसरा सिंह आहे."
       },
       {
-        "Image": "/thecleverrabbit/rbpage6.jpg",
+        "Image": "https://raw.githubusercontent.com/kiran-g900/laughnlearnjunction-content/refs/heads/main/images/thecleverrabbit/rbpage6.jpg",
         "Text": "तो लढायला आत उडी मारून विहिरीत पडला."
       },
       {
-        "Image": "/thecleverrabbit/rbpage7.jpg",
+        "Image": "https://raw.githubusercontent.com/kiran-g900/laughnlearnjunction-content/refs/heads/main/images/thecleverrabbit/rbpage7.jpg",
         "Text": "शहाणा ससा आनंदाने पळून गेला. \nMoral: समस्यांचे निराकरण करण्यासाठी बुद्धीचा वापर करा."
       }
     ]
@@ -40,15 +40,15 @@
     "Image": "toothstorycover.png",
     "Pages": [
       {
-        "Image": "page2.png",
+        "Image": "https://raw.githubusercontent.com/kiran-g900/laughnlearnjunction-content/refs/heads/main/images/storyone/page2.png",
         "Text": "Once upon a time in a deep forest, there lived a clever tooth..."
       },
       {
-        "Image": "page1.png",
+        "Image": "https://raw.githubusercontent.com/kiran-g900/laughnlearnjunction-content/refs/heads/main/images/storyone/page2.png",
         "Text": "One day, a hungry lion came and tried to catch the tooth..."
       },
       {
-        "Image": "page3.png",
+        "Image": "https://raw.githubusercontent.com/kiran-g900/laughnlearnjunction-content/refs/heads/main/images/storyone/page2.png",
         "Text": "But the tooth tricked the lion and escaped safely!"
       }
     ]
@@ -206,5 +206,6 @@
     ]
   }
 ]
+
 
 
