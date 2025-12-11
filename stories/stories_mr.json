@@ -1,1 +1,208 @@
-
+[
+  {
+    "StoryId": "1",
+    "Title": "चतुर ससा",
+    "Image": "/thecleverrabbit/rbpage1.jpg",
+    "Pages": [
+      {
+        "Image": "/thecleverrabbit/rbpage1.jpg",
+        "Text": "एकदा जंगलात एक चतुर ससा राहत होता."
+      },
+      {
+        "Image": "/thecleverrabbit/rbpage2.jpg",
+        "Text": "एक भुकेला सिंह त्याला खाऊ इच्छित होता."
+      },
+      {
+        "Image": "/thecleverrabbit/rbpage3.jpg",
+        "Text": "सशाने एक चतुर योजना आखली."
+      },
+      {
+        "Image": "/thecleverrabbit/rbpage4.jpg",
+        "Text": "त्याने सिंहाला एका खोल विहिरीकडे नेले."
+      },
+      {
+        "Image": "/thecleverrabbit/rbpage5.jpg",
+        "Text": "सिंहाला पाण्यात स्वतःचे प्रतिबिंब दिसले. \nत्याला वाटले की तो दुसरा सिंह आहे."
+      },
+      {
+        "Image": "/thecleverrabbit/rbpage6.jpg",
+        "Text": "तो लढायला आत उडी मारून विहिरीत पडला."
+      },
+      {
+        "Image": "/thecleverrabbit/rbpage7.jpg",
+        "Text": "शहाणा ससा आनंदाने पळून गेला. \nMoral: समस्यांचे निराकरण करण्यासाठी बुद्धीचा वापर करा."
+      }
+    ]
+  },
+  {
+    "StoryId": "2",
+    "Title": "2. Tiny Tooth",
+    "Image": "toothstorycover.png",
+    "Pages": [
+      {
+        "Image": "page2.png",
+        "Text": "Once upon a time in a deep forest, there lived a clever tooth..."
+      },
+      {
+        "Image": "page1.png",
+        "Text": "One day, a hungry lion came and tried to catch the tooth..."
+      },
+      {
+        "Image": "page3.png",
+        "Text": "But the tooth tricked the lion and escaped safely!"
+      }
+    ]
+  },
+  {
+    "StoryId": "3",
+    "Title": "3. Tiny Tooth",
+    "Image": "toothstorycover.png",
+    "Pages": [
+      {
+        "Image": "page2.png",
+        "Text": "Once upon a time in a deep forest, there lived a clever tooth..."
+      },
+      {
+        "Image": "page1.png",
+        "Text": "One day, a hungry lion came and tried to catch the tooth..."
+      },
+      {
+        "Image": "page3.png",
+        "Text": "But the tooth tricked the lion and escaped safely!"
+      }
+    ]
+  },
+  {
+    "StoryId": "4",
+    "Title": "4. Tiny Tooth",
+    "Image": "toothstorycover.png",
+    "Pages": [
+      {
+        "Image": "page2.png",
+        "Text": "Once upon a time in a deep forest, there lived a clever tooth..."
+      },
+      {
+        "Image": "page1.png",
+        "Text": "One day, a hungry lion came and tried to catch the tooth..."
+      },
+      {
+        "Image": "page3.png",
+        "Text": "But the tooth tricked the lion and escaped safely!"
+      }
+    ]
+  },
+  {
+    "StoryId": "5",
+    "Title": "5. Tiny Tooth",
+    "Image": "toothstorycover.png",
+    "Pages": [
+      {
+        "Image": "page2.png",
+        "Text": "Once upon a time in a deep forest, there lived a clever tooth..."
+      },
+      {
+        "Image": "page1.png",
+        "Text": "One day, a hungry lion came and tried to catch the tooth..."
+      },
+      {
+        "Image": "page3.png",
+        "Text": "But the tooth tricked the lion and escaped safely!"
+      }
+    ]
+  },
+  {
+    "StoryId": "6",
+    "Title": "6. Tiny Tooth",
+    "Image": "toothstorycover.png",
+    "Pages": [
+      {
+        "Image": "page2.png",
+        "Text": "Once upon a time in a deep forest, there lived a clever tooth..."
+      },
+      {
+        "Image": "page1.png",
+        "Text": "One day, a hungry lion came and tried to catch the tooth..."
+      },
+      {
+        "Image": "page3.png",
+        "Text": "But the tooth tricked the lion and escaped safely!"
+      }
+    ]
+  },
+  {
+    "StoryId": "7",
+    "Title": "7. Tiny Tooth",
+    "Image": "toothstorycover.png",
+    "Pages": [
+      {
+        "Image": "page2.png",
+        "Text": "Once upon a time in a deep forest, there lived a clever tooth..."
+      },
+      {
+        "Image": "page1.png",
+        "Text": "One day, a hungry lion came and tried to catch the tooth..."
+      },
+      {
+        "Image": "page3.png",
+        "Text": "But the tooth tricked the lion and escaped safely!"
+      }
+    ]
+  },
+  {
+    "StoryId": "8",
+    "Title": "8. Tiny Tooth",
+    "Image": "toothstorycover.png",
+    "Pages": [
+      {
+        "Image": "page2.png",
+        "Text": "Once upon a time in a deep forest, there lived a clever tooth..."
+      },
+      {
+        "Image": "page1.png",
+        "Text": "One day, a hungry lion came and tried to catch the tooth..."
+      },
+      {
+        "Image": "page3.png",
+        "Text": "But the tooth tricked the lion and escaped safely!"
+      }
+    ]
+  },
+  {
+    "StoryId": "9",
+    "Title": "9. Tiny Tooth",
+    "Image": "toothstorycover.png",
+    "Pages": [
+      {
+        "Image": "page2.png",
+        "Text": "Once upon a time in a deep forest, there lived a clever tooth..."
+      },
+      {
+        "Image": "page1.png",
+        "Text": "One day, a hungry lion came and tried to catch the tooth..."
+      },
+      {
+        "Image": "page3.png",
+        "Text": "But the tooth tricked the lion and escaped safely!"
+      }
+    ]
+  },
+  {
+    "StoryId": "10",
+    "Title": "10. Tiny Tooth",
+    "Image": "toothstorycover.png",
+    "Pages": [
+      {
+        "Image": "page2.png",
+        "Text": "Once upon a time in a deep forest, there lived a clever tooth..."
+      },
+      {
+        "Image": "page1.png",
+        "Text": "One day, a hungry lion came and tried to catch the tooth..."
+      },
+      {
+        "Image": "page3.png",
+        "Text": "But the tooth tricked the lion and escaped safely!"
+      }
+    ]
+  }
+]
