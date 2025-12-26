@@ -1,36 +1,44 @@
 [
   {
     "StoryId": "10",
-    "Title": "चतुर ससा",
+    "Title": "🐰 चतुर ससा आणि रागीट सिंह 🦁",
     "Image": "https://raw.githubusercontent.com/kiran-g900/laughnlearnjunction-content/refs/heads/main/images/thecleverrabbit/rbpage1.jpg",
     "Pages": [
       {
-        "Image": "https://raw.githubusercontent.com/kiran-g900/laughnlearnjunction-content/refs/heads/main/images/thecleverrabbit/rbpage1.jpg",
-        "Text": "एकदा जंगलात एक चतुर ससा राहत होता."
+        "Image": "https://raw.githubusercontent.com/kiran-g900/laughnlearnjunction-content/refs/heads/main/images/thecleverrabbit/page1.jpg",
+        "Text": "एका जंगलात एक खूप मोठा आणि भयंकर सिंह राहायचा. तो रोज खूप प्राण्यांची शिकार करायचा."
       },
       {
-        "Image": "https://raw.githubusercontent.com/kiran-g900/laughnlearnjunction-content/refs/heads/main/images/thecleverrabbit/rbpage2.jpg",
-        "Text": "एक भुकेला सिंह त्याला खाऊ इच्छित होता."
+        "Image": "https://raw.githubusercontent.com/kiran-g900/laughnlearnjunction-content/refs/heads/main/images/thecleverrabbit/page2.jpg",
+        "Text": "एक दिवस जंगलातल्या प्राण्यांनी ठरवलं की, रोज एक प्राणी स्वतःहून सिंहाकडे जेवण म्हणून जाईल."
       },
       {
-        "Image": "https://raw.githubusercontent.com/kiran-g900/laughnlearnjunction-content/refs/heads/main/images/thecleverrabbit/rbpage3.jpg",
-        "Text": "सशाने एक चतुर योजना आखली."
+        "Image": "https://raw.githubusercontent.com/kiran-g900/laughnlearnjunction-content/refs/heads/main/images/thecleverrabbit/page3.jpg",
+        "Text": "एके दिवशी एका छोट्या सशाची पाळी आली. ससा होता छोटा, पण डोक्याने होता एकदम 'स्मार्ट'! त्याला सिंहाचा खूप राग आला होता. त्याने एक युक्ती लढवली."
       },
       {
-        "Image": "https://raw.githubusercontent.com/kiran-g900/laughnlearnjunction-content/refs/heads/main/images/thecleverrabbit/rbpage4.jpg",
-        "Text": "त्याने सिंहाला एका खोल विहिरीकडे नेले."
+        "Image": "https://raw.githubusercontent.com/kiran-g900/laughnlearnjunction-content/refs/heads/main/images/thecleverrabbit/page4.jpg",
+        "Text": "तो सिंहाकडे खूप उशिरा पोहोचला. सिंह भुकेने ओरडत होता, ए सशा, इतका उशिरा का आलास?"
       },
       {
-        "Image": "https://raw.githubusercontent.com/kiran-g900/laughnlearnjunction-content/refs/heads/main/images/thecleverrabbit/rbpage5.jpg",
-        "Text": "सिंहाला पाण्यात स्वतःचे प्रतिबिंब दिसले. \nत्याला वाटले की तो दुसरा सिंह आहे."
+        "Image": "https://raw.githubusercontent.com/kiran-g900/laughnlearnjunction-content/refs/heads/main/images/thecleverrabbit/page5.jpg",
+        "Text": "ससा घाबरण्याचं नाटक करत म्हणाला, महाराज, काय सांगू? वाटेत मला दुसरा एक मोठा सिंह भेटला! तो म्हणतोय की तोच या जंगलाचा राजा आहे."
       },
       {
-        "Image": "https://raw.githubusercontent.com/kiran-g900/laughnlearnjunction-content/refs/heads/main/images/thecleverrabbit/rbpage6.jpg",
-        "Text": "तो लढायला आत उडी मारून विहिरीत पडला."
+        "Image": "https://raw.githubusercontent.com/kiran-g900/laughnlearnjunction-content/refs/heads/main/images/thecleverrabbit/page6.jpg",
+        "Text": "सिंह रागाने लाल झाला! तो म्हणाला, चल मला दाखव, कुठे आहे तो? मी त्याला आत्ता संपवतो! चतुर ससा सिंहाला एका जुन्या विहिरीजवळ घेऊन गेला. ससा म्हणाला, महाराज, तो पहा! तो या पाण्यात लपला आहे."
       },
       {
-        "Image": "https://raw.githubusercontent.com/kiran-g900/laughnlearnjunction-content/refs/heads/main/images/thecleverrabbit/rbpage7.jpg",
-        "Text": "शहाणा ससा आनंदाने पळून गेला. \nMoral: समस्यांचे निराकरण करण्यासाठी बुद्धीचा वापर करा."
+        "Image": "https://raw.githubusercontent.com/kiran-g900/laughnlearnjunction-content/refs/heads/main/images/thecleverrabbit/page7.jpg",
+        "Text": "सिंहाने विहिरीत वाकून पाहिलं. त्याला पाण्यात स्वतःचाच चेहरा दिसला. सिंहाला वाटलं तो दुसराच सिंह आहे. त्याने रागाने मोठ्याने गर्जना केली— ROAARRR!"
+      },
+      {
+        "Image": "https://raw.githubusercontent.com/kiran-g900/laughnlearnjunction-content/refs/heads/main/images/thecleverrabbit/page8.jpg",
+        "Text": "विहिरीतून तसाच आवाज परत आला. मग काय? रागाच्या भरात सिंहाने विहिरीत उडी मारली आणि तो पाण्यात पडला. चतुर सशाने आपल्या बुद्धीने स्वतःचे आणि सगळ्या प्राण्यांचे प्राण वाचवले! या गोष्टीतून आपण काय शिकलो?"
+      },
+      {
+        "Image": "https://raw.githubusercontent.com/kiran-g900/laughnlearnjunction-content/refs/heads/main/images/thecleverrabbit/page9.jpg",
+        "Text": "संकटाच्या वेळी घाबरून न जाता बुद्धीचा वापर केला, तर मोठ्या संकटावरही मात करता येते! ✨"
       }
     ]
   },
@@ -187,6 +195,7 @@
     ]
   }
 ]
+
 
 
 
